@@ -1,12 +1,17 @@
-Package: Luke
+Package: hetprior
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Luke A",
+           family = "McGuinness",
            role = c("aut", "cre"),
-           email = "first.last@example.com")
+           email = "luke.mcguinness@bristol.ac.uk")
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.1.1
+Depends: 
+  R (>= 2.10)
+Suggests: 
+    testthat
