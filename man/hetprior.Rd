@@ -12,7 +12,7 @@ hetprior(priorid, statistic, details)
 \item{statistic}{Descriptive statistic required. Options allowed are "mean" or "sd" for lognormal, log(t), and logit(t) distributions,
 and "shape" or "scale" for inverse gamma distributions.}
 
-\item{details}{Outputs information on the selected  console. Default = FALSE.}
+\item{details}{Outputs information on the selected prior. Default = FALSE.}
 }
 \value{
 \code{hetprior} returns the specific descriptive statistic for a specified informative prior distribtution for the
