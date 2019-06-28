@@ -3,6 +3,7 @@ library(hetprior)
 
 test_that("Output is as expected", {
   expect_equal(hetprior(2, "mean"), -4.06)
+  expect_equal(hetprior(2, "sd"), 1.45)
   expect_equal(is.numeric(hetprior(floor(runif(1, min=1, max=300)),"mean")),TRUE)
 })
 
