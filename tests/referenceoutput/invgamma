@@ -1,0 +1,18 @@
+
+ Prior look-up results: 
+ Input: 
+    Prior ID:                 190 
+    Heterogeneity statistic:  Tau-squared 
+    Data type:                Continuous 
+    Effect measure:           Standardised mean difference 
+    Distribution form:        Inverse gamma 
+    Type of Intervention:     Pharmacological vs pharmacological 
+    Nature of outcome:        Biological markers 
+    Medical area:             Any (excluding cancer and respiratory diseases) 
+    Average sample size:      Any 
+ Output: 
+    Prior shape  =  0.37 
+    Prior scale  =  9e-05 
+ 
+ Notes: None  
+ Reference: Rhodes, Kirsty M., Rebecca M. Turner, and Julian PT Higgins. "Predictive distributions were developed for the extent of heterogeneity in meta-analyses of continuous outcome data." Journal of Clinical Epidemiology 68, no. 1 (2015): 52-60. 

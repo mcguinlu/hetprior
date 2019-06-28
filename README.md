@@ -13,6 +13,9 @@ status](https://ci.appveyor.com/api/projects/status/github/mcguinlu/hetprior?bra
 [![Travis build
 status](https://img.shields.io/travis/mcguinlu/hetprior.svg?label=build&logo=travis&branch=master)](https://travis-ci.org/mcguinlu/hetprior)
 
+[![Coverage
+status](https://codecov.io/gh/mcguinlu/hetprior/branch/master/graph/badge.svg)](https://codecov.io/github/mcguinlu/hetprior?branch=master)
+
 The goal of Luke is to …
 
 ## Installation
